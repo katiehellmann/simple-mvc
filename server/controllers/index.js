@@ -321,6 +321,7 @@ const findDogByName = async (req, res) => {
   }
 };
 
+
 // export the relevant public controller functions
 module.exports = {
   index: hostIndex,
